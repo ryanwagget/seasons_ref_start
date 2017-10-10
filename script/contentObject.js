@@ -6,8 +6,17 @@ var dynamicContent = {
 
 			images : [
 				"spring_1.jpg",
-				"spring_2.jpg"
-			]
+				"spring_2.jpg",
+				"spring_3.jpg",
+				"spring_4.jpg"
+			],
+
+			ImageDescription : [
+							"These are some butterflies.",
+							"A chick sitting in some grass.",
+							"Pink leaves on some trees.",
+							"A goat leaning on a tree."
+						]
 		},
 
 		summer : {
@@ -17,7 +26,16 @@ var dynamicContent = {
 
 			images : [
 				"summer_1.jpg",
-				"summer_2.jpg"
+				"summer_2.jpg",
+				"summer_3.jpg",
+				"summer_4.jpg"
+			],
+
+			ImageDescription : [
+				"Some colorful chairs on a beach.",
+				"A puppy chilling on the beach.",
+				"A guy raising a guitar on a beach.",
+				"A flip flop, coconut, and a pair of sunglasses on a beach."
 			]
 		},
 
@@ -28,7 +46,16 @@ var dynamicContent = {
 
 			images : [
 				"autumn_1.jpg",
-				"autumn_2.jpg"
+				"autumn_2.jpg",
+				"autumn_3.jpg",
+				"autumn_4.jpg"
+			],
+
+			ImageDescription : [
+				"A colorful forest.",
+				"Some flowers and pumpkins.",
+				"A lake surrounded by colorful trees.",
+				"A hedgehog on top of an apple."
 			]
 		},
 
@@ -39,7 +66,17 @@ var dynamicContent = {
 
 			images : [
 				"winter_1.jpg",
-				"winter_2.jpg"
+				"winter_2.jpg",
+				"winter_3.jpg",
+				"winter_4.jpg"
+			],
+
+			ImageDescription : [
+				"A sunset in a forest.",
+				"A snowman.",
+				"A cold river.",
+				"Some dogs playing in the snow."
 			]
 		}
+
 	};
